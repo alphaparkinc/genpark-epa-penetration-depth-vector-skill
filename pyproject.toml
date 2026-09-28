@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-epa-penetration-depth-vector-skill"
+version = "1.0.0"
+description = "Expanding Polytope Algorithm (EPA) calculating contact normal and minimum penetration depth vectors"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
