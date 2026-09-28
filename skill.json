@@ -1,0 +1,20 @@
+{
+  "name": "genpark-epa-penetration-depth-vector-skill",
+  "version": "1.0.0",
+  "description": "Expanding Polytope Algorithm (EPA) calculating contact normal and minimum penetration depth vectors",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "epa",
+    "penetration-depth",
+    "contact-normal",
+    "collision-response",
+    "physics-engine",
+    "python-standard-library",
+    "agent-skills",
+    "computational-geometry",
+    "rigid-body",
+    "gjk-epa"
+  ]
+}
