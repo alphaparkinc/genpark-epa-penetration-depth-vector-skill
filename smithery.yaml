@@ -1,0 +1,6 @@
+name: genpark-epa-penetration-depth-vector-skill
+version: 1.0.0
+description: Expanding Polytope Algorithm (EPA) calculating contact normal and minimum penetration depth vectors
+command: python
+args:
+  - mcp_server.py
